@@ -3,8 +3,8 @@
 
         <!-- Remote -->
 	<remote name="AL" fetch="https://github.com/k4ngcaribug" />
-        <remote name="lab" fetch="https://github.com/vince-labd" />
-	<remote name="cam" fetch="https://gitlab.com/GrapheneOS" />
+        <remote name="lab" fetch="https://github.com/vince-labs" />
+	<remote name="cam" fetch="https://github.com/GrapheneOS" />
 	<remote name="los" fetch="https://github.com/lineageos" />
 		
         <!-- Trees -->
