@@ -1,7 +1,7 @@
 # Clone Source:
 
 ```bash
-git clone -b vince https://github.com/vince-labs/local_manifests --depth=1 .repo/local_manifests
+git clone -b vince https://github.com/neophyte-labs/local_manifests --depth=1 .repo/local_manifests
 ```
 # Then to sync up:
 ```
